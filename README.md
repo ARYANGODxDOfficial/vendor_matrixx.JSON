@@ -20,7 +20,7 @@ repo/sources/
 - **docs:** This directory contains installation guides for each device
 -----
 
-### Make sure you are the official maintainer of the device or part of the [euclidTeam](https://github.com/euclidTeam)
+### Make sure you are the official maintainer of the device or part of the [ProjectMatrixx](https://github.com/ProjectMatrixx)
 -----
 
 **Step 1. Add Your Device Entry:** Open sources/device_list.json and add your device object under "devices":
@@ -115,8 +115,8 @@ spes: Update support_group url
 -----
 
 **Step 5. Final Checks Before pull request:**
-- Make sure you have pulled latest changes from the [main](https://github.com/tanvirr007/vendor_euclid.JSON/tree/main) branch
-- Check [this](https://github.com/tanvirr007/vendor_euclid.JSON/commit/8c58530ecb50985d4386dc527477a8cbe0faacf2) commit for reference
+- Make sure you have pulled latest changes from the [main](https://github.com/tanvirr007/vendor_matrixx.JSON/tree/main) branch
+- Check [this](https://github.com/tanvirr007/vendor_matrixx.JSON/commit/8c58530ecb50985d4386dc527477a8cbe0faacf2) commit for reference
 - Confirm your support link and usernames are correct
 - Make sure all filenames match the device codename exactly
 - You can use this [json formatter tool](https://jsonformatter.curiousconcept.com) to validate your JSON

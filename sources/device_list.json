@@ -10,36 +10,198 @@
       "codename": "spes",
       "vendor": "Xiaomi",
       "model": "Redmi Note 11/NFC",
-      "active": false
+      "active": true
     },
     {
       "codename": "munch",
       "vendor": "Xiaomi",
-      "model": "Poco F4 5G",
-      "active": true
+      "model": "POCO F4",
+      "active": false
      },
     {
       "codename": "oscaro",
       "vendor": "OnePlus",
       "model": "OnePlus Nord CE2 Lite 5G",
-      "active": false
+      "active": true
     },
     {
       "codename": "vayu",
       "vendor": "Xiaomi",
-      "model": "Poco X3 Pro",
+      "model": "POCO X3 Pro",
       "active": true
     },
     {
       "codename": "aston",
       "vendor": "OnePlus",
-      "model": "OnePlus 12R/Ace 3",
+      "model": "OnePlus 12R",
       "active": true
     },
     {
       "codename": "caihong",
       "vendor": "OnePlus",
       "model": "OnePlus Pad 2/Pro",
+      "active": false
+    },
+    {
+      "codename": "alioth",
+      "vendor": "Xiaomi",
+      "model": "POCO F3",
+      "active": true
+    },
+    {
+      "codename": "veux",
+      "vendor": "Xiaomi",
+      "model": "POCO X4 Pro 5G",
+      "active": true
+    },
+    {
+      "codename": "redwood",
+      "vendor": "Xiaomi",
+      "model": "POCO X5 Pro 5G",
+      "active": true
+    },
+    {
+      "codename": "stone",
+      "vendor": "Xiaomi",
+      "model": "POCO X5 5G",
+      "active": true
+    },
+    {
+      "codename": "whyred",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 5",
+      "active": true
+    },
+    {
+      "codename": "beryllium",
+      "vendor": "Xiaomi",
+      "model": "POCO F1",
+      "active": true
+    },
+    {
+      "codename": "f62",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy F62",
+      "active": true
+    },
+    {
+      "codename": "d1x",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy Note 10 5G",
+      "active": true
+    },
+    {
+      "codename": "d2x",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy Note 10+ 5G",
+      "active": true
+    },
+    {
+      "codename": "d2s",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy Note 10+",
+      "active": true
+    },
+    {
+      "codename": "d1",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy Note 10",
+      "active": true
+    },
+    {
+      "codename": "beyondx",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy S10 5G",
+      "active": true
+    },
+    {
+      "codename": "beyond2lte",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy S10+",
+      "active": true
+    },
+    {
+      "codename": "beyond1lte",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy S10",
+      "active": true
+    },
+    {
+      "codename": "beyond0lte",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy S10e",
+      "active": true
+    },
+    {
+      "codename": "dubai",
+      "vendor": "Motorola",
+      "model": "Motorola Edge 30",
+      "active": true
+    },
+    {
+      "codename": "Pong",
+      "vendor": "Nothing",
+      "model": "Nothing Phone (2)",
+      "active": true
+    },
+    {
+      "codename": "marble",
+      "vendor": "Xiaomi",
+      "model": "POCO F5",
+      "active": true
+    },
+    {
+      "codename": "peridot",
+      "vendor": "Xiaomi",
+      "model": "POCO F6",
+      "active": true
+    },
+    {
+      "codename": "pipa",
+      "vendor": "Xiaomi",
+      "model": "Xiaomi Pad 6",
+      "active": true
+    },
+    {
+      "codename": "instantnoodle",
+      "vendor": "OnePlus",
+      "model": "OnePlus 8",
+      "active": true
+    },
+    {
+      "codename": "instantnoodlep",
+      "vendor": "OnePlus",
+      "model": "OnePlus 8 Pro",
+      "active": true
+    },
+    {
+      "codename": "kebab",
+      "vendor": "OnePlus",
+      "model": "OnePlus 8T",
+      "active": true
+    },
+    {
+      "codename": "lemonades",
+      "vendor": "OnePlus",
+      "model": "OnePlus 9R",
+      "active": true
+    },
+    {
+      "codename": "phoenix",
+      "vendor": "Xiaomi",
+      "model": "POCO X2",
+      "active": true
+    },
+    {
+      "codename": "surya",
+      "vendor": "Xiaomi",
+      "model": "POCO X3/NFC",
+      "active": true
+    },
+    {
+      "codename": "raphael",
+      "vendor": "Xiaomi",
+      "model": "Redmi K20 Pro",
       "active": true
     }
   ]

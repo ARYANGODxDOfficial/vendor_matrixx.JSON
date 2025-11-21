@@ -2,7 +2,7 @@
 
 clear
 echo "======================================"
-echo "     EuclidOS JSON Generator"
+echo "     Project Matrixx JSON Generator"
 echo "======================================"
 
 validate_codename() {
