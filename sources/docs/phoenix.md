@@ -1,4 +1,12 @@
-# phoenix
+**Clean flash:**
+- Boot to recovery
+- Clear Data, Dalvik and cache
+- Flash the Rom
+- Format Data
+- Reboot to System
 
-- This is an auto-generated placeholder file for **phoenix**
-- Clear this file and add the flashing steps for **phoenix** in proper Markdown
+**Dirty flash:**
+- Boot to recovery
+- Clear Data, Dalvik and cache
+- Flash the Rom
+- Reboot to System

@@ -27,13 +27,12 @@ fastboot boot path/to/recovery.img
 ```
 - Press enter, Your device should now boot into recovery mode
 - Click on install
-- Install fw if required
 - Go to path/to/Matrixx*.zip
 - Select the rom file you downloaded
 - Swipe to flash the rom
 - *If vanilla:* Flash rom > Format data > Reboot to revovery > Flash Gapps > Reboot system
 - Once flash(Gapps/Regular) done, format data and reboot system
-- If it said couldn't format data then go Home > Advance > Reboot to revovery > Format data > Reboot system
+- If it said couldn't format data then Home > Advance > Reboot to revovery > Format data > Reboot system
 ---
 
 ### Dirty Flash:
@@ -43,9 +42,9 @@ fastboot boot path/to/recovery.img
 
 ### Flash Kernel:
 - Boot into recovery
-- Flash/Sideload(adb) the kernel(su) file
+- Flash/Sideload(adb) the kernel file
 - Reboot system
-- You can also root by flashing magisk.apk(zip) in same way
+- You can also flash magisk by using this same method
 ---
 
 ### Notes:

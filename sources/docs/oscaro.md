@@ -2,7 +2,7 @@
 
 **Before start flashing.....**
 - Backup all your Data (If doing clean flash)
-- Download flash_rom.zip from SF
+- Download flash_matrixx.zip from [**here**](https://sourceforge.net/projects/projectmatrixx/files/Android-15/oscaro/flash-files/)
 
 ## Clean Flash 
    **Download & Extract flash_matrixx.zip from website**
@@ -26,7 +26,7 @@ fastboot reboot recovery
 Apply/Install Update > Apply from ADB
 
 ```
-adb sideload <path_to_file.>.zip
+adb sideload Matrixx-v11*.zip
 ```
 Format Data
 
@@ -42,10 +42,9 @@ Apply/Install Update > Apply from ADB
 
 **adb sideload**
 ```
-adb sideload <path_to_file>.zip
+adb sideload Matrixx-v11*.zip
 ```
 Reboot to system
-
 
 
 
