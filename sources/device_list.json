@@ -203,6 +203,12 @@
       "vendor": "Xiaomi",
       "model": "Redmi K20 Pro",
       "active": true
+    },
+    {
+      "codename": "zorn",
+      "vendor": "Xiaomi",
+      "model": "POCO F7 Pro",
+      "active": true
     }
   ]
 }
