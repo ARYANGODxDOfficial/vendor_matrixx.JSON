@@ -209,6 +209,12 @@
       "vendor": "Xiaomi",
       "model": "POCO F7 Pro",
       "active": true
+    },
+    {
+    "codename": "bladerunner",
+    "vendor": "Realme",
+    "model": "Realme X50 Pro",
+    "active": true
     }
   ]
 }
