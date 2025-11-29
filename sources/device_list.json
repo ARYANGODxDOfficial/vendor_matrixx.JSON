@@ -70,7 +70,7 @@
       "codename": "whyred",
       "vendor": "Xiaomi",
       "model": "Redmi Note 5",
-      "active": false
+      "active": true
     },
     {
       "codename": "beryllium",
